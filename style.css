@@ -43,6 +43,10 @@ wrapper {
 }
 .section-content {
   flex:724px;
+  
+}
+.point {
+  border-bottom: 1px solid grey;
 }
 .section-content h3 {
   margin: 25px 0px 0px;
